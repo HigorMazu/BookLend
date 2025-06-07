@@ -1,58 +1,37 @@
-📚 BookLend – Sistema de Empréstimo de Livros
-BookLend é um aplicativo desenvolvido no Power Apps para gerenciar o empréstimo, devolução e renovação de livros. Ideal para bibliotecas, escolas, clubes de leitura ou qualquer ambiente que lide com circulação de livros.
+📘 BookLend
+BookLend é um aplicativo desenvolvido no Power Apps, projetado para gerenciar empréstimos, devoluções e renovações de livros de forma prática e intuitiva.
+Ideal para bibliotecas escolares, clubes de leitura ou ambientes corporativos com acervos compartilhados.
 
-🚀 Funcionalidades Principais
-📖 Cadastro de livros com título, autor, categoria e disponibilidade
+A proposta é simplificar o controle de circulação de livros, garantindo organização, histórico e alertas de prazos em poucos cliques.
 
-👤 Gestão de usuários e controle de quem está com qual livro
+🔍 Funcionalidades
+Cadastro de livros
+Registre obras com título, autor, gênero, status (disponível/emprestado) e outras informações relevantes.
 
-🔄 Registro de empréstimos, renovações e devoluções
+Empréstimos e devoluções
+Permite registrar e controlar os livros emprestados e devolvidos, com datas e responsáveis.
 
-🕒 Controle de prazos de devolução com sinalizações visuais
+Renovação de livros
+O sistema permite a extensão do prazo de devolução com um clique.
 
-📊 Histórico completo de movimentações
+Controle de prazos
+Destaques visuais para livros com devolução próxima ou em atraso.
 
-🛠️ Tecnologias Utilizadas
-Microsoft Power Apps – Criação da interface e lógica do app
+Histórico de movimentações
+Acompanhe o histórico de empréstimos de cada livro e usuário.
 
-Microsoft Dataverse / SharePoint / Excel Online – Armazenamento de dados
+🧰 Tecnologias Utilizadas
+Power Apps
+Plataforma low-code da Microsoft para criação do app.
 
-Power Automate (opcional) – Notificações e automações
+Dataverse / SharePoint / Excel Online
+Armazenamento estruturado de dados, adaptável ao ambiente da organização.
 
-Power BI (opcional) – Relatórios e dashboards
+Power Automate (opcional)
+Para envio de notificações automáticas e alertas.
 
-📲 Como Usar
-Acesse o Power Apps com sua conta corporativa
+Power BI (opcional)
+Geração de dashboards e relatórios analíticos sobre o uso do acervo.
 
-Abra o aplicativo BookLend
-
-Utilize as funcionalidades:
-
-📚 Catálogo: visualizar livros disponíveis
-
-➕ Empréstimo: registrar empréstimos
-
-🔁 Renovação: estender o prazo de devolução
-
-✅ Devolução: registrar devoluções
-
-Consulte relatórios, se habilitado
-
-🧩 Personalização
-O BookLend pode ser adaptado para:
-
-Outros tipos de materiais (revistas, jogos, ferramentas etc.)
-
-Diferentes regras de prazos por categoria
-
-Integração com Microsoft Teams ou e-mails automáticos
-
-📁 Estrutura do Projeto
-PowerApps/: Arquivo .msapp exportado
-
-data/: Fonte de dados (Dataverse, SharePoint ou Excel)
-
-docs/: Imagens e instruções adicionais
-
-👨‍💻 Autor
-Desenvolvido por Higor
+👤 Desenvolvido por
+Higor
