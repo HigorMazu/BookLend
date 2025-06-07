@@ -37,9 +37,6 @@ A proposta é simplificar o controle de circulação de livros, garantindo organ
 - **Power Automate (opcional)**  
   Para envio de notificações automáticas e alertas.
 
-- **Power BI (opcional)**  
-  Geração de dashboards e relatórios analíticos sobre o uso do acervo.
-
 ---
 
 ## 👤 Desenvolvido por
